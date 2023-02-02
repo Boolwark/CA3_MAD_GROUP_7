@@ -1,0 +1,8 @@
+how do i load data from async storage? 
+how do i get data into async storage in the first place?
+
+how do i get the default data into my application? maybe a control screen with
+a button that loads the data into the async storage of the application. 
+
+
+We can store the filenames of the images we want to save.
